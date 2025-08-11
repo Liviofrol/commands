@@ -10,7 +10,7 @@ Analyze the code thoroughly until you feel you have a solid understanding of the
 
 3. Create a new branch from the main branch for this feature. The branch name should be descriptive and relate to the issue. Use the following format: feature/[issue-number]-brief-description
 
-4. Create a comprehensive plan and todo list for addressing the issue. Consider the following aspects:
+4. Launch two subagents to create a comprehensive plans and todo list for addressing the issue, think a lot about it. Consider the following aspects:
 
    - Required code changes
    - Potential impacts on other parts of the system
@@ -23,10 +23,14 @@ Analyze the code thoroughly until you feel you have a solid understanding of the
 
 5. Think deeply about all aspects of the task. Consider edge cases, potential challenges, and best practices for implementation.
 
-6. Present your plan in the following format:
+6. Present the alternative plans in the following format:
 
 <plan>
-[Your comprehensive plan goes here. Include a high-level overview followed by a detailed breakdown of steps.]
+[Your comprehensive plan 01 goes here. Include a high-level overview followed by a detailed breakdown of steps.]
 </plan>
+
+<plan2>
+[Your comprehensive plan 02 goes here. Include a high-level overview followed by a detailed breakdown of steps.]
+</plan2>
 
 Remember, your task is to create a plan, not to implement the changes. Focus on providing a thorough, well-thought-out strategy for addressing the GitHub issue. Then ASK FOR APPROVAL BEFORE YOU START WORKING on the TODO LIST.
