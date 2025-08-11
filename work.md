@@ -10,7 +10,7 @@ Analyze the code thoroughly until you feel you have a solid understanding of the
 
 3. Create a new branch from the main branch for this feature. The branch name should be descriptive and relate to the issue. Use the following format: feature/[issue-number]-brief-description
 
-4. Launch two subagents to create a comprehensive plans and todo list for addressing the issue, think a lot about it. Consider the following aspects:
+4. Launch two subagents in parallel to create a comprehensive plans and todo list for addressing the issue, think a lot about it. Consider the following aspects:
 
    - Required code changes
    - Potential impacts on other parts of the system
